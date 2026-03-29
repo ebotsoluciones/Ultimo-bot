@@ -1,4 +1,3 @@
 flask>=3.0.0
 twilio>=9.0.0
 gunicorn>=21.0.0
-psycopg2-binary>=2.9.9   # solo necesario si STORAGE_BACKEND=postgres
